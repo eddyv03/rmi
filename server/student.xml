@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+   <student>
+      <id>211</id>
+      <name>Ed Vincent Patulin</name>
+      <age>20</age>
+      <address>Ambago, Butuan City</address>
+      <contact>09773344651</contact>
+   </student>
+   <student>
+      <id>311</id>
+      <name>Gil Vincent Padullon</name>
+      <age>21</age>
+      <address>Ambago, Butuan City</address>
+      <contact>09112233987</contact>
+   </student>
+   <student>
+      <id>411</id>
+      <name>Dimples Tinto</name>
+      <age>21</age>
+      <address>Banza, Butuan City</address>
+      <contact>09987654321</contact>
+   </student>
+   <student>
+      <id>511</id>
+      <name>Joseph Lucilo Quinte</name>
+      <age>23</age>
+      <address>Lumbocan, Butuan City</address>
+      <contact>09123456789</contact>
+   </student>
+   <student>
+      <id>611</id>
+      <name>Khervee Lagang</name>
+      <age>22</age>
+      <address>Nasipit, Agusan del Nort</address>
+      <contact>09456789123</contact>
+   </student>
+</students>
